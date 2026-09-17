@@ -1,0 +1,10 @@
+﻿  Ejercicio2.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\Ejercicio2.cpp(78,1): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Ejercicio_2.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\Ejercicio_2.cpp(73,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\Ejercicio_2.cpp(73,15): error C2065: 'cout': identificador no declarado
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\Ejercicio_2.cpp(73,88): error C2039: "endl": no es un miembro de "std"
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Ejercicio_2\Ejercicio_2\Ejercicio_2.cpp(73,92): error C2065: 'endl': identificador no declarado
+  Generando código...

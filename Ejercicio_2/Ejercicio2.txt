@@ -1,0 +1,172 @@
+Metodo main para iniciar las cosas
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+#include "Arreglo.h"
+
+// NOMBRE: Rodrigo Ruiz
+// CARNET:1037623
+
+/*
+
+            Ejercicio 2 - Clase para manejo de arreglos
+                Inicie agregando su nombre y carnet
+
+Cree una clase que permita almacenar un arreglo unidimensional de chars.
+La clase debe tener métodos para insertar, eliminar y buscar elementos en el arreglo,
+así como para imprimir el arreglo.
+
+Utiliza punteros para manejar la memoria dinámica.
+
+Use la plantilla de la clase para desarrollar su solucion.
+
+*/
+
+class ManejadorArreglo {
+private:
+    char* _arreglo;
+    int _longitud; // almacena la longitud mas reciente del arreglo. Se modifica por agregarElemento(), eliminarElementoAlFinal()
+public:
+    ManejadorArreglo(char* arreglo, int longitud) {
+        _arreglo = arreglo;
+        _longitud = longitud;
+    }
+
+    char cambiarValorEnIndice(int indice, char valor) {
+        // Reemplaza el valor del indice en el arreglo. Retorna el dato almacenado previo al cambio.
+        return 0;
+    }
+
+    int agregarElementoAlFinal(char valor) {
+        // Inserta un elemento al final del arreglo, extendiendo la capacidad del mismo. Retorna la nueva longitud.
+        return _longitud;
+    }
+    void eliminarElementoAlFinal() {
+        // Elimina el ultimo elemento del arreglo, reduciendo la capacidad del mismo. Retorna la nueva longitud
+    }
+    void imprimir() {
+        // imprime todos los valores del arreglo
+    }
+    void imprimir(int inicio, int fin) {
+        // imprime los valores del arreglo en el rango dado.
+    }
+
+    int buscarValor(char valor) {
+        // Busca el valor en el arreglo, retornando el indice de la primera coincidencia. Caso contrario, retorna -1.
+        return -1;
+    }
+};
+
+int main() {
+    Arreglo manejador(10);
+
+    manejador.cambiarValorEnIndice(0, 'a');
+    manejador.cambiarValorEnIndice(1, 'b');
+    manejador.cambiarValorEnIndice(2, 'c');
+    manejador.imprimir(); // Debería imprimir: a b c ? ? ? ? ? ? ?
+
+    manejador.agregarElementoAlFinal('z');
+    manejador.imprimir(); // Debería imprimir: a b c ? ? ? ? ? ? ? z
+    manejador.eliminarElementoAlFinal();
+    manejador.imprimir(); // Debería imprimir: a b c ? ? ? ? ? ? ?
+
+    std::cout << "Indice de 'b' en el arreglo: " << manejador.buscarValor('b') << std::endl; // Debería imprimir: 1
+
+    manejador.imprimir(0, 2); // Debería imprimir: a b c
+    return 0;
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Arreglo.h
+#include <iostream>
+#pragma once
+#ifndef ARREGLO_H
+#define ARREGLO_H
+
+ref class Arreglo
+{
+private:
+    char* _arreglo;
+    int _longitud;
+public:
+    Arreglo(int longitud);
+    ~Arreglo();
+    char cambiarValorEnIndice(int indice, char valor);
+    int agregarElementoAlFinal(char valor);
+    void eliminarElementoAlFinal();
+    void imprimir(int inicio = 0, int fin = -1);
+    int buscarValor(char valor);
+};
+
+#endif // ARREGLO_H
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#include "pch.h"
+#include "Arreglo.h"
+#include <iostream>
+Arreglo::Arreglo(int longitud) : _longitud(longitud) {
+    _arreglo = new char[longitud];
+    for (int i = 0; i < _longitud; ++i) {
+        _arreglo[i] = '?';
+    }
+}
+
+Arreglo::~Arreglo() {
+    delete[] _arreglo;
+}
+
+char Arreglo::cambiarValorEnIndice(int indice, char valor) {
+    if (indice < 0 || indice >= _longitud) {
+        std::cerr << "Índice fuera de rango." << std::endl;
+        return '\0';
+    }
+    char antiguoValor = _arreglo[indice];
+    _arreglo[indice] = valor;
+    return antiguoValor;
+}
+
+int Arreglo::agregarElementoAlFinal(char valor) {
+    char* nuevoArreglo = new char[_longitud + 1];
+    for (int i = 0; i < _longitud; ++i) {
+        nuevoArreglo[i] = _arreglo[i];
+    }
+    nuevoArreglo[_longitud] = valor;
+    delete[] _arreglo;
+    _arreglo = nuevoArreglo;
+    ++_longitud;
+    return _longitud;
+}
+
+void Arreglo::eliminarElementoAlFinal() {
+    if (_longitud > 0) {
+        char* nuevoArreglo = new char[_longitud - 1];
+        for (int i = 0; i < _longitud - 1; ++i) {
+            nuevoArreglo[i] = _arreglo[i];
+        }
+        delete[] _arreglo;
+        _arreglo = nuevoArreglo;
+        --_longitud;
+    }
+}
+
+void Arreglo::imprimir(int inicio, int fin) {
+    if (inicio < 0 || fin >= _longitud || inicio > fin) {
+        std::cerr << "Rango inválido." << std::endl;
+        return;
+    }
+    if (fin == -1) {
+        fin = _longitud - 1;
+    }
+    for (int i = inicio; i <= fin; ++i) {
+        std::cout << _arreglo[i] << " ";
+    }
+    std::cout << std::endl;
+}
+
+int Arreglo::buscarValor(char valor) {
+    for (int i = 0; i < _longitud; ++i) {
+        if (_arreglo[i] == valor) {
+            return i;
+        }
+    }
+    return -1;
+}
+

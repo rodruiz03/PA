@@ -1,0 +1,20 @@
+﻿  Clase libros.cpp
+  cliente.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.h(4,19): error C2011: 'Cliente': nueva definición del tipo 'class'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\usuario.h(20): message : vea la declaración de 'Cliente'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(4,10): error C2027: uso del tipo 'Cliente' sin definir
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\usuario.h(20): message : vea la declaración de 'Cliente'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(4,61): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(4,94): error C2550: '{ctor}': las listas de inicializadores de constructor solo se permiten en las definiciones de constructor
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(5,5): error C2065: 'cantidadPrestamos': identificador no declarado
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(6,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(8,14): error C2027: uso del tipo 'Cliente' sin definir
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\usuario.h(20): message : vea la declaración de 'Cliente'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(9,12): error C2065: 'cantidadPrestamos': identificador no declarado
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(12,15): error C2027: uso del tipo 'Cliente' sin definir
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\usuario.h(20): message : vea la declaración de 'Cliente'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\cliente.cpp(13,5): error C2065: 'cantidadPrestamos': identificador no declarado
+  especialista.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Clase libros\Clase libros\especialista.cpp(10,1): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  usuario.cpp
+  Generando código...
