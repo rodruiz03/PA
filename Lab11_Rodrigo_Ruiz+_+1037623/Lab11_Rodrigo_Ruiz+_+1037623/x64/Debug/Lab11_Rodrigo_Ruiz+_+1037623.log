@@ -1,0 +1,10 @@
+﻿  BibliotecaMusical.cpp
+  Cancion.cpp
+  Lab11_Rodrigo_Ruiz+_+1037623.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Lab11_Rodrigo_Ruiz+_+1037623\Lab11_Rodrigo_Ruiz+_+1037623\Lab11_Rodrigo_Ruiz+_+1037623.cpp(84,24): error C2039: "mostrarInformacionCancion": no es un miembro de "BibliotecaMusical"
+  (compilando archivo de origen "/Lab11_Rodrigo_Ruiz+_+1037623.cpp")
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Lab11_Rodrigo_Ruiz+_+1037623\Lab11_Rodrigo_Ruiz+_+1037623\BibliotecaMusical.h(6,7):
+  vea la declaración de 'BibliotecaMusical'
+  
+  ListaDeCanciones.cpp
+  Generando código...
