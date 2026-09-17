@@ -1,0 +1,6 @@
+﻿  Lab9_Rodrigo_Ruiz+_+1037623.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Lab9_Rodrigo_Ruiz+_+1037623\Lab9_Rodrigo_Ruiz+_+1037623\Lab9_Rodrigo_Ruiz+_+1037623.cpp(28,54): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Lab9_Rodrigo_Ruiz+_+1037623.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab9_Rodrigo_Ruiz+_+1037623.vcxproj -> C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Lab9_Rodrigo_Ruiz+_+1037623\x64\Debug\Lab9_Rodrigo_Ruiz+_+1037623.exe
