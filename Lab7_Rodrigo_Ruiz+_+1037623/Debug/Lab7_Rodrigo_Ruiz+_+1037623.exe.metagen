@@ -1,0 +1,34 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Lab7_Rodrigo_Ruiz+_+1037623, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Ciclista: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String nombre : Public
+    System.String club : Public
+    Int32 puntos : Public
+    Int32 pruebasParticipadas : Public
+    System.String tipoPrueba : Public
+  Methods:
+    AnadirPuntos(Int32): PrivateScope, Public, HideBySig
+    IncrementarPruebasParticipadas(): PrivateScope, Public, HideBySig
+Class Competencia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.List`1[Ciclista] ListaCiclistas 'get ' : 
+  Methods:
+    AgregarCiclista(Ciclista): PrivateScope, Public, HideBySig
+    EjecutarPrueba(): PrivateScope, Public, HideBySig
+    EjecutarPruebaVelocidad(): PrivateScope, Public, HideBySig
+    EjecutarPruebaPersecucion(): PrivateScope, Public, HideBySig
+    MostrarResultados(List`1): PrivateScope, Public, HideBySig
+    MostrarGanador(): PrivateScope, Public, HideBySig
+    get_ListaCiclistas(): PrivateScope, Public, HideBySig, SpecialName
