@@ -1,0 +1,7 @@
+﻿  P1_CLR.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_CLR\P1_CLR\P1_CLR.cpp(7,13): error C2065: 'Cliente': identificador no declarado
+  (compilando archivo de origen "/P1_CLR.cpp")
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_CLR\P1_CLR\P1_CLR.cpp(7,21): error C2059: error de sintaxis: '>'
+  (compilando archivo de origen "/P1_CLR.cpp")
+  
