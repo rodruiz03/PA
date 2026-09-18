@@ -1,0 +1,9 @@
+﻿  Articulo.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_Aplicacion\P1_Aplicacion\Articulo.cpp(20,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Libro.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_Aplicacion\P1_Aplicacion\Libro.cpp(25,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Publicacion.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_Aplicacion\P1_Aplicacion\Publicacion.cpp(50,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Revista.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\P1_Aplicacion\P1_Aplicacion\Revista.cpp(25,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Generando código...
