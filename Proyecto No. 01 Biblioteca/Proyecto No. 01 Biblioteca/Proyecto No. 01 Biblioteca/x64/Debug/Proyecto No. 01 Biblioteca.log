@@ -1,0 +1,76 @@
+﻿  Articulo.cpp
+  Cliente.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Articulo.cpp(9,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Articulo.cpp(12,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Articulo.cpp(15,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Articulo.cpp(42,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Articulo.cpp(45,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.h(4,15): error C2011: 'Cliente': nueva definición del tipo 'class'
+  (compilando archivo de origen "Cliente.cpp")
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(24,7):
+  vea la declaración de 'Cliente'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(4,10): error C2027: uso del tipo 'Cliente' sin definir
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(24,7):
+  vea la declaración de 'Cliente'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(4,69): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(4,102): error C2550: '{ctor}': las listas de inicializadores de constructor solo se permiten en las definiciones de constructor
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(5,5): error C2065: 'cantidadPrestamos': identificador no declarado
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(6,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(8,14): error C2027: uso del tipo 'Cliente' sin definir
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(24,7):
+  vea la declaración de 'Cliente'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(9,12): error C2065: 'cantidadPrestamos': identificador no declarado
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(12,15): error C2027: uso del tipo 'Cliente' sin definir
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(24,7):
+  vea la declaración de 'Cliente'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.cpp(13,5): error C2065: 'cantidadPrestamos': identificador no declarado
+  especialista.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.h(5,20): error C2011: 'especialista': nueva definición del tipo 'class'
+  (compilando archivo de origen "especialista.cpp")
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(31,7):
+  vea la declaración de 'especialista'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(4,15): error C2027: uso del tipo 'especialista' sin definir
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(31,7):
+  vea la declaración de 'especialista'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(4,105): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(4,138): error C2550: '{ctor}': las listas de inicializadores de constructor solo se permiten en las definiciones de constructor
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(5,5): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(6,1): warning C4508: '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(8,27): error C2027: uso del tipo 'especialista' sin definir
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(31,7):
+  vea la declaración de 'especialista'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.cpp(9,12): error C2065: 'especialidad': identificador no declarado
+  Libro.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Libro.cpp(10,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Libro.cpp(13,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Libro.cpp(16,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Libro.cpp(45,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Libro.cpp(48,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  Proyecto No. 01 Biblioteca.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Cliente.h(4,15): error C2011: 'Cliente': nueva definición del tipo 'class'
+  (compilando archivo de origen "Proyecto%20No.%2001%20Biblioteca.cpp")
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(24,7):
+  vea la declaración de 'Cliente'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\especialista.h(5,20): error C2011: 'especialista': nueva definición del tipo 'class'
+  (compilando archivo de origen "Proyecto%20No.%2001%20Biblioteca.cpp")
+  C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Usuario.h(31,7):
+  vea la declaración de 'especialista'
+  
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca.cpp(60,13): warning C4551: la llamada a la función no tiene lista de argumentos
+  Publicacion.cpp
+  Revista.cpp
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Revista.cpp(11,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Revista.cpp(14,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Revista.cpp(17,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Revista.cpp(46,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Proyecto No. 01 Biblioteca\Revista.cpp(49,20): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  Usuario.cpp
+  Generando código...
