@@ -1,0 +1,15 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\bin\Debug\net6.0\Semana2 Tarea1.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\bin\Debug\net6.0\Semana2 Tarea1.deps.json
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\bin\Debug\net6.0\Semana2 Tarea1.runtimeconfig.json
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\bin\Debug\net6.0\Semana2 Tarea1.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\bin\Debug\net6.0\Semana2 Tarea1.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.AssemblyInfoInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.AssemblyInfo.cs
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\refint\Semana2 Tarea1.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\Semana2 Tarea1.genruntimeconfig.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Tercer Ciclo\Avanzada\Lab\Semana2 Tarea1\Semana2 Tarea1\obj\Debug\net6.0\ref\Semana2 Tarea1.dll
